@@ -1,0 +1,4 @@
+The client The Gaming Room is a company that wanted to expand their game to a web based version to be used on many devices. The game took images from a library of stock photos which were used as clues for people to answer.
+I believe I did well in creating clear specifications and ensuring that each piece was explaned the best to my ability. Creating a design document like this allowed me to break down the project into manageable components which was useful to see the entire system laid out.
+I would include more specific examples of user flows which would make visualizing it better. I focused on understanding the main tasks that users would be doing to make sure that the primary functions would work on multiple platforms.
+I followed a structured approach by finding out as much information that the client wanted as possible and laid it out into an easy to read document. 
